@@ -1,2 +1,2 @@
 关于学习的图片资料
-![image](./)
+![image](./Full Connectted layer.png)
